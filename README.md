@@ -19,6 +19,16 @@ To run this project locally, you need the following tools:
 - Python (for FastAPI backend)
 - Git
 - VSCode or another code editor of your choice
+## Screenshots
+
+Here are some screenshots showing the application in action:
+
+### 1. User Profile Form:
+![Profile Form Screenshot](./output_ss/page1.png)
+
+### 2. Displayed User Data:
+![Displayed Data Screenshot](./output_ss/page2.png)
+
 
 ## Installation
 
@@ -27,12 +37,4 @@ To run this project locally, you need the following tools:
 git clone https://github.com/your-username/RIG_Assessment.git
 cd RIG_Assessment
 
-## Screenshots
 
-Here are some screenshots showing the application in action:
-
-### 1. User Profile Form:
-![Profile Form Screenshot](path/to/screenshot1.png)
-
-### 2. Displayed User Data:
-![Displayed Data Screenshot](path/to/screenshot2.png)
